@@ -15,7 +15,7 @@
 
 ## Project Environment
 
-The entire project is conducted in the Google Colab. The key library version when I am doing the project is listed below. 
+The entire project is conducted in the Google Colab. The key library versions when I am doing the project are listed below. 
 
 - Python version = 3.7.13 
 - TensorFlow version = 2.8.2 
