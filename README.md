@@ -8,7 +8,6 @@
 
 ## Get started 
 
-- Run the NSTAU network (or whichever network you want :D)
 - The user may take a look at the attention unet in advance to understand the attention gate. 
 - The user is also recommended to run the vision transformer tutorial provided by TensorFlow to gain more understanding of the vision transformer.  
 
